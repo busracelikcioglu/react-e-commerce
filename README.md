@@ -1,4 +1,4 @@
-<img src"https://github.com/busracelikcioglu/react-e-commerce_projeb/blob/main/ana.png">
+ !([https://github.com/busracelikcioglu/react-e-commerce_projeb/blob/main/ana.png])
 
 
 # Getting Started with Create React App
