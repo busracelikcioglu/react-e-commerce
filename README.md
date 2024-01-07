@@ -1,5 +1,5 @@
+![](https://github.com/busracelikcioglu/react-e-commerce_projeb/blob/main/ana.png?raw=true)
 
-<img src="[https://github.com/busracelikcioglu/react-e-commerce_projeb/blob/main/ana.png?raw=true"]>
 
 # Getting Started with Create React App
 
