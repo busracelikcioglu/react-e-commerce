@@ -1,5 +1,5 @@
- !([https://github.com/busracelikcioglu/react-e-commerce_projeb/blob/main/ana.png])
 
+<img src="[https://github.com/busracelikcioglu/bootstrap_instagramclone/blob/main/img.PNG?raw=true]">
 
 # Getting Started with Create React App
 
