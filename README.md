@@ -1,3 +1,6 @@
+<img src"https://github.com/busracelikcioglu/react-e-commerce_projeb/blob/main/ana.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
