@@ -1,5 +1,5 @@
 ![](https://github.com/busracelikcioglu/react-e-commerce_projeb/blob/main/ana.png?raw=true)
-
+![](https://github.com/busracelikcioglu/react-e-commerce_projeb/blob/main/outlet.png?raw=true)
 
 # Getting Started with Create React App
 
